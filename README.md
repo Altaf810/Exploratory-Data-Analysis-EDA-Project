@@ -1,2 +1,22 @@
-# Exploratory-Data-Analysis-EDA-Project
-Exploratory Data Analysis (EDA) project on student performance dataset using Python, Pandas, Matplotlib, and Seaborn to identify patterns, correlations, and insights through statistical analysis and visualizations.
+# Exploratory Data Analysis (EDA) Project
+
+## Overview
+This project analyzes student performance data using
+statistical summaries and visualizations.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Analysis Performed
+- Statistical Summary
+- Correlation Heatmap
+- Histogram
+- Boxplot
+- Scatter Plot
+
+## Insights
+The project identifies relationships between study hours,
+attendance, and student performance.
